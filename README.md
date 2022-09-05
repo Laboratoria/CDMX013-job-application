@@ -87,7 +87,7 @@ ellas y el equipo de Laboratoria.
  manifiesta su interés por aplicar a la vacante, como sucede en algunos
  procesos de reclutamiento abiertos.
 
-**En este [apartado](../01-hr-mentoring/interviewer-guide/README.md)
+**En este [apartado](./01-hr-mentoring/interviewer-guide/README.md)
 podrás consultar los objetivos a alcanzar con la
 revisión y feedback de herramientas y con la simulación.**
 
@@ -123,7 +123,7 @@ documentar feedback para ellas y el equipo de Laboratoria.
  por aplicar a la vacante, como sucede en algunos procesos de reclutamiento
  abiertos.
 
-**En este [apartado](https://github.com/Laboratoria/job-application-public/blob/main/00-context/README.md#mentor%C3%ADas-t%C3%A9cnicas)
+**En este [apartado](./02-tech-mentoring//interviewer-guide/README.md)
 podrás consultar los objetivos alcanzar con la
 simulación y revisión y feedback de su Github profile.**
 
