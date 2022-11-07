@@ -129,7 +129,7 @@ simulación y revisión y feedback de su Github profile.**
 
 |                 Actividades                  |   Tipo   | Semana   | Día/hora |
 |----------------------------------------------|----------|----------|---------:|
-| Sesión de Q&A sobre el programa.             |   Fija   |Semana del 7 de Noviembre|Martes 8 a Jueves 10 de Noviembre 4pm|
+| Sesión de Q&A sobre el programa.             |   Fija   |Jueves 10 de Noviembre 4pm|
 | Simulación de entrevista técnica.            | Abierta  |Semana del 14 de Noviembre y Semana del 21 de Noviembre|          |
 | Enviar formulario evaluación y feedback.     | Abierta  |Semana del 21 de Noviembre|          |
 
